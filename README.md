@@ -1,3 +1,26 @@
+<!--
+ * @version: 1.0.0
+ * @Author: fl
+ * @Date: 2020-06-11 09:22:43
+ * @LastEditTime: 2020-06-12 17:43:30
+-->
+
+主页：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612173928346.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tvdG9iYTIwOV8=,size_16,color_FFFFFF,t_70)
+
+商品详情：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612174219742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tvdG9iYTIwOV8=,size_16,color_FFFFFF,t_70)
+
+购物车：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612174240221.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tvdG9iYTIwOV8=,size_16,color_FFFFFF,t_70)
+
+购买记录：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612174255826.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tvdG9iYTIwOV8=,size_16,color_FFFFFF,t_70)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -6,24 +29,19 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.<br /> Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The page will reload if you make edits.<br /> You will also see any lint errors in the console.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.<br /> See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for production to the `build` folder.<br /> It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+The build is minified and the filenames include the hashes.<br /> Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
